@@ -30,7 +30,6 @@ Extensive testing with diverse scenarios ensures the system's accuracy and perfo
 > - Code Optimization<br>
 
 </details>
-<br>
 
 # Quick Overview - Setup & Run
 
