@@ -32,8 +32,8 @@ int main() {
     while (getline(inputFile, line)) {
         inputLines.push_back(line);
     }
-
     inputFile.close();
+
     cout << "Checking syntax..." << endl;
     for (const string &input: inputLines) {
         if (checkSyntax(input)) {
